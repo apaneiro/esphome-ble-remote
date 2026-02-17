@@ -46,6 +46,7 @@ The event is named `esphome.hid_events` and contains the usage as a string and t
 Example:
 ```yaml
 data:
+  mac: "FF:FF:20:00:0F:15"
   usage: "KEYBOARD_EXAMPLE"
   value: 1
 ```
